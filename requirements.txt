@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy
+requests
+beautifulsoup4
+selenium>=4.15
+webdriver-manager
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+pyyaml
+jupyter
+# optional, for transformer sentiment upgrade:
+# transformers
+# torch
